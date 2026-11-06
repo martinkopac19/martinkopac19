@@ -18,7 +18,7 @@ Prehliadač nemôže kvôli CORS sťahovať cudzie weby priamo, preto:
 
 ## Spustenie
 
-1. Zmerguj túto vetvu do `main` (naplánované spúšťanie funguje len na predvolenej vetve).
+1. Kód musí byť na predvolenej vetve repozitára (naplánované spúšťanie funguje len tam).
 2. V repozitári: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 3. **Actions → „Akcie v halách (PWA)“ → Run workflow** (prvé nasadenie).
 4. Otvor `https://<user>.github.io/<repo>/` na mobile a daj **Pridať na plochu**.
